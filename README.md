@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Daniel Dias.
 
 - 🔭 I'm a Computer Engineering Student at Universidade de Pernambuco
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning MLOps
 
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
