@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Daniel Dias.
 
 - 🔭 I'm a Computer Engineering Student at Universidade de Pernambuco
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m currently learning Data Science
 
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,10 @@
   <img align="center" alt="Daniel-Scikit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Daniel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Daniel-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   <img align="center" alt="Daniel-Langchain" height="30" width="40" src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon">
+  <img align="center" alt="Daniel-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="Daniel-Nginx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Daniel-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Daniel-Langchain" height="30" width="40" src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.2/icon">
 
 <!--   <img align="center" alt="Daniel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Daniel-C#" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"> -->
